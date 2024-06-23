@@ -26,7 +26,7 @@ html {
 
 header {
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(bg.webp);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./images/bg.webp);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -254,7 +254,7 @@ h3{
 /* ua */
 
 .ua{
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(london.jpeg);
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(./images/london.jpeg);
     padding: 100px 0;
     text-align: center;
     width: 80%;
